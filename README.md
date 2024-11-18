@@ -5,3 +5,5 @@
 [# Employee Details] 
 # Enter The Details
 [#Entering the Details ]
+# Recent Actions Webpage
+[# Recent Action Webpage]
